@@ -1,4 +1,3 @@
-layout_spectrum: 0.1520360156428069
 typography_spectrum: 0.09284167271107435
 color:
   brandStrength: 0.8473780076019466
@@ -11,4 +10,6 @@ color:
     - '#B0AFA9'
     - '#373536'
     - '#201E19'
+layout_spectrum: 0.1520360156428069
 name: Upon Media
+title: A Multimedia Collective
