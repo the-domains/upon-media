@@ -6,9 +6,9 @@ color:
   saturation: 0.6660259363707155
   rhythmicContrast: 0.27286777016706765
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#E2E2E2'
+    - '#75766D'
+    - '#B0AFA9'
+    - '#373536'
+    - '#201E19'
 name: Upon Media
