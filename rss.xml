@@ -4,8 +4,15 @@
         <description><![CDATA[A Multimedia Collective]]></description>
         <link>https://thegrid.ai/upon-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 03:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 03:12:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/upon-media/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8d5b9f7-8f64-46a3-9d19-9f780967e47b.png">]]></description>
+            <link>https://thegrid.ai/upon-media/visage/index.html</link>
+            <guid isPermaLink="false">addcf948-5f57-4135-9ccc-91eaa72465ff</guid>
+            <pubDate>Thu, 11 Aug 2016 03:11:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d60f96e-6a84-4ae0-a00c-ae33850966e3.png" alt="Pencil on 9&quot; x 12&quot; sketch paper">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/upon-media/female-portrait-study/index.html</link>
             <guid isPermaLink="false">770d5969-dd3b-4fd0-837d-33a0b44b41d5</guid>
             <pubDate>Thu, 11 Aug 2016 02:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75843136-7fcd-4e7a-a5f7-376607ce088a.png" alt="Charcoal on 9&quot; x 12&quot; sketch paper">]]></description>
-            <link>https://thegrid.ai/upon-media/cfd7b480-dbc0-4a3f-9a1b-3ae6d6ed883f/index.html</link>
-            <guid isPermaLink="false">cfd7b480-dbc0-4a3f-9a1b-3ae6d6ed883f</guid>
-            <pubDate>Thu, 11 Aug 2016 02:19:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
