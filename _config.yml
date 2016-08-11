@@ -1,4 +1,6 @@
 typography_spectrum: 0.09284167271107435
+content_rating:
+  adult: true
 color:
   brandStrength: 0.8473780076019466
   lightness: 0.04051936836913228
@@ -11,5 +13,9 @@ color:
     - '#373536'
     - '#201E19'
 layout_spectrum: 0.1520360156428069
+author:
+  name: Samuel
+  email: samuelsharpe001@yahoo.com
+  url: jeffcollet.com
 name: Upon Media
 title: A Multimedia Collective
