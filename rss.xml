@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[A Multimedia Collective]]></title>
-        <description><![CDATA[A Multimedia Collective]]></description>
+        <title><![CDATA[Upon Media]]></title>
+        <description><![CDATA[Upon Media]]></description>
         <link>https://thegrid.ai/upon-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 02:56:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 05:13:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/upon-media/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4db7c7d9-ea94-4e6f-97ca-f1f61a1996b4.png">]]></description>
+            <link>https://thegrid.ai/upon-media/a2ba27c6-0666-464c-947d-0f2ff801ae7c/index.html</link>
+            <guid isPermaLink="false">a2ba27c6-0666-464c-947d-0f2ff801ae7c</guid>
+            <pubDate>Fri, 26 Aug 2016 05:01:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d6732ae-dd67-4126-bcfa-d7bf53d13fa2.png">]]></description>
@@ -61,20 +68,6 @@
             <link>https://thegrid.ai/upon-media/86cf65c8-43a1-4227-a11f-dea06ef357b0/index.html</link>
             <guid isPermaLink="false">86cf65c8-43a1-4227-a11f-dea06ef357b0</guid>
             <pubDate>Thu, 11 Aug 2016 03:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8d5b9f7-8f64-46a3-9d19-9f780967e47b.png">]]></description>
-            <link>https://thegrid.ai/upon-media/visage/index.html</link>
-            <guid isPermaLink="false">addcf948-5f57-4135-9ccc-91eaa72465ff</guid>
-            <pubDate>Thu, 11 Aug 2016 03:11:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d60f96e-6a84-4ae0-a00c-ae33850966e3.png" alt="Pencil on 9&quot; x 12&quot; sketch paper">]]></description>
-            <link>https://thegrid.ai/upon-media/pencil-on-9-x-12-sketch-paper/index.html</link>
-            <guid isPermaLink="false">cfcac354-aabf-443d-adc2-10b95135cab8</guid>
-            <pubDate>Thu, 11 Aug 2016 03:08:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
